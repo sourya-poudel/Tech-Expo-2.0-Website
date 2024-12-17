@@ -12,3 +12,6 @@ HTML5/CSS3: For structure and styling.
 JavaScript: Enhances interactivity and user experience.
 Bootstrap: Ensures responsive and mobile-friendly design.
 Version Control: Managed through GitHub for collaborative tracking and hosting.
+
+![image](https://github.com/user-attachments/assets/f3ca1cd3-6142-4269-8aa8-c4b3c8f7c9ab)
+
